@@ -4,7 +4,7 @@ Create Cloudinary account
 Create .env file fill the respective places
 
 OPENAI_API_KEY=""
-MONGODB_URL=""
+MONGODB_URL=""      
 
 CLOUDINARY_CLOUD_NAME=""
 CLOUDINARY_API_KEY=""
